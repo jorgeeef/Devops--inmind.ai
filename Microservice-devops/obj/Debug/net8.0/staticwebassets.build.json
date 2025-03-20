@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eDAGqpiKZRBlLnfqFY2e2eFh60FpgljHIAuSaL12WpU=",
+  "Source": "Microservice-devops",
+  "BasePath": "_content/Microservice-devops",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
